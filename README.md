@@ -1,5 +1,4 @@
 # hello_world
 First time doing this. Maybe second?
 
-
-This is the master. Therefore, the current branch will not have this line.
+my name is daniel. I want to figure out how to do a branch correctly. My career depends on it. 
